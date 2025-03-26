@@ -9,3 +9,9 @@ public class Q2 {
         System.out.print(i);
     }
 }
+
+
+
+
+
+
